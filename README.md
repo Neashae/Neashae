@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ... building a website
 - 🤔 I’m looking for help with ... developing my eniroment 
 - 💬 Ask me about ... Anything, just be respectful
-- ⚡ Fun fact: ... I'm a mom 
+
 -->
